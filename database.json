@@ -1,0 +1,11 @@
+{
+    	"host" : "172.20.10.2",
+    	"dbname" : "SEAMER",
+	"user" : "postgres",
+	"password" : "Adr12345",
+	"sslmode" : "disable",
+	"jam_akhir" : 6,	
+	"awal_hour" : " 07:00:00.000",
+	"akhir_hour" : " 07:00:00.000",
+	"id_machine" : 1
+}
